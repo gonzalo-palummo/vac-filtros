@@ -1,0 +1,4 @@
+src/assets/*
+tailwind.config.js
+tailwind-v0.js
+docs/*
